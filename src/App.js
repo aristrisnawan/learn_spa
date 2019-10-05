@@ -153,7 +153,8 @@ function About(){
                 aristrisnawan35@gmail.com<br/>
                 Laki-laki <br/>
                 081221561189<br/>
-                Programer
+                Programer<br/>
+                
             </p>
           </Col>
         </Row>
